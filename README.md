@@ -1,7 +1,7 @@
 # RightClickOptions
 
 ### ⚠️ False Positive Notice
-If this application is flagged as malware, it is a **false positive**. The file has been submitted to Microsoft, and they have manually removed the false flags. Because the app is compiled from Python, some antivirus engines may still trigger alerts.
+If this application is flagged as malware, it is a **false positive**. Because the app is compiled from Python, some antivirus engines may still trigger alerts.
 
 ### THIS APP IS BULIT FOR WINDOWS 10 **ONLY**
 
