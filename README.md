@@ -3,6 +3,8 @@
 ### ⚠️ False Positive Notice
 If this application is flagged as malware, it is a **false positive**. The file has been submitted to Microsoft, and they have manually removed the false flags. Because the app is compiled from Python, some antivirus engines may still trigger alerts.
 
+### THIS APP IS BULIT FOR WINDOWS 10 **ONLY**
+
 ### Security & Source Code
 If you have safety concerns, you are permitted to decompile the executable to audit the source code yourself. However, please note:
 * **Ownership:** I am the original creator and still the sole owner of Legacy Clicker. 
@@ -12,4 +14,4 @@ If you have safety concerns, you are permitted to decompile the executable to au
 * **Forks:** You may fork the project, but you must provide clear credit to me as the original author.
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/Legacy-Clicker/releases/download/Clicker/Legacy.Clicker.exe) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/Legacy-Clicker/total?style=for-the-badge&color=green)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/rightclickoptions/releases/download/release/rightclickoptions.exe) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/rightclickoptions/total?style=for-the-badge&color=green)
